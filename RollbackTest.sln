@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RollbackTest", "RollbackTest\RollbackTest.vcxproj", "{280A29BB-9066-46FF-AE9F-D9F9C3E466AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{280A29BB-9066-46FF-AE9F-D9F9C3E466AB}.Debug|x64.ActiveCfg = Debug|x64
+		{280A29BB-9066-46FF-AE9F-D9F9C3E466AB}.Debug|x64.Build.0 = Debug|x64
+		{280A29BB-9066-46FF-AE9F-D9F9C3E466AB}.Debug|x86.ActiveCfg = Debug|Win32
+		{280A29BB-9066-46FF-AE9F-D9F9C3E466AB}.Debug|x86.Build.0 = Debug|Win32
+		{280A29BB-9066-46FF-AE9F-D9F9C3E466AB}.Release|x64.ActiveCfg = Release|x64
+		{280A29BB-9066-46FF-AE9F-D9F9C3E466AB}.Release|x64.Build.0 = Release|x64
+		{280A29BB-9066-46FF-AE9F-D9F9C3E466AB}.Release|x86.ActiveCfg = Release|Win32
+		{280A29BB-9066-46FF-AE9F-D9F9C3E466AB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC5704FE-BD8E-49A6-A7F9-633A3FEF2DBF}
+	EndGlobalSection
+EndGlobal
